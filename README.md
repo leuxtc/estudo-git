@@ -31,6 +31,8 @@ Na aula foi passado todos conceitos básicos sobre como criar um repositório lo
 ```git commit -m```| Comando para commitar e salvar arquivos na branch e adicionar uma mensagem
 ```git log```| Mostra o histórico de commits feitos
 ```git restore```| Descarta todas novas alterações feitas no repositório
+```git push```| Comando que **envia** as alterações para um repostiório remoto
+```git pull```| Comando que **pega** as alterações de um repositório remoto
 
 ## 📚 Documentação
 
