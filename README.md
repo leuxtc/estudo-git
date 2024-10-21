@@ -33,6 +33,7 @@ Na aula foi passado todos conceitos básicos sobre como criar um repositório lo
 ```git restore```| Descarta todas novas alterações feitas no repositório
 ```git push```| Comando que **envia** as alterações para um repostiório remoto
 ```git pull```| Comando que **pega** as alterações de um repositório remoto
+```git checkout -b```| Cria uma nova Brench
 
 ## 📚 Documentação
 
