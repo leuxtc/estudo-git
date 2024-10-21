@@ -7,7 +7,8 @@ Repositório de armazenamento para resumos sobre Git do bootcamp de Front-End da
 
 ##  Resumo
 
-Na aula foi passado todos conceitos básicos sobre como criar um repositório local e também como conectar a um repositório remoto pelo Git e Github. 
+Nas aulas foram passado todos conceitos básicos sobre como criar um repositório local e também como conectar a um repositório remoto pelo Git e Github.
+Também foi mostrado conflitos na hora de mesclar branches, como resolver e como gerenciar branches, criando ou apagando elas
 
 - O ```git status``` não reconhece arquivos vazios
 
@@ -33,7 +34,8 @@ Na aula foi passado todos conceitos básicos sobre como criar um repositório lo
 ```git restore```| Descarta todas novas alterações feitas no repositório
 ```git push```| Comando que **envia** as alterações para um repostiório remoto
 ```git pull```| Comando que **pega** as alterações de um repositório remoto
-```git checkout -b```| Cria uma nova Brench
+```git checkout -b```| Cria uma nova Branch
+```git merge``` | Usado para mesclar Branch
 
 ## 📚 Documentação
 
